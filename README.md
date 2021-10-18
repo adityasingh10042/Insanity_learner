@@ -1,3 +1,3 @@
 ## Insanity_learner
-# You can Find all the HTML Code of my assignment in HTML branch.
+# You can find My Assignments code according to branches (HTML,CSS)
 Community :)
